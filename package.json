@@ -1,0 +1,20 @@
+{
+  "name": "pkunk-jsx-loaded",
+  "description": "A pkunk-flavored jsx transformer (Webpack Loader)",
+  "author": "yobert@gmail.com",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "dependencies": {
+    "pkunk-jsx": "*",
+	 "react-tools": "*",
+	 "loader-utils": "*"
+  },
+  "repository":{
+    "type": "git",
+	 "url": "https://github.com/yobert/pkunk-jsx-loader"
+  },
+  "bugs":{
+	 "url": "https://github.com/yobert/pkunk-jsx-loader/issues"
+	},
+	"license":"MIT"
+}
