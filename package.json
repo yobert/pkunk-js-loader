@@ -1,5 +1,5 @@
 {
-  "name": "pkunk-jsx-loaded",
+  "name": "pkunk-jsx-loader",
   "description": "A pkunk-flavored jsx transformer (Webpack Loader)",
   "author": "yobert@gmail.com",
   "version": "0.0.1",
