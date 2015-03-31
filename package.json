@@ -2,10 +2,10 @@
   "name": "pkunk-jsx-loader",
   "description": "A pkunk-flavored jsx transformer (Webpack Loader)",
   "author": "yobert@gmail.com",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "main": "lib/index.js",
   "dependencies": {
-    "pkunk-jsx": "*",
+    "pkunk-jsx": "0.0.4",
 	 "react-tools": "*",
 	 "loader-utils": "*"
   },
